@@ -78,7 +78,9 @@ Future Work:
 - Adapt the device for other agricultural products like maize and beans.
 
 Contributors
+
 Your Name - Project Lead – KIWEEWA DENIS INNOCENT
+
 Team Member 1 – DESTINY MULUNGI SANYU
 
 
