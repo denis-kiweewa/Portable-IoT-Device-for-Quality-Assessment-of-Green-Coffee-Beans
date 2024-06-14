@@ -1,0 +1,36 @@
+INFO:picamera2.picamera2:Camera stopped
+INFO:picamera2.picamera2:Camera closed successfully.
+INFO:picamera2.picamera2:Camera stopped
+INFO:picamera2.picamera2:Camera closed successfully.
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
+INFO:root:Email sent successfully to mulungidestinysanyu@gmail.com
+INFO:picamera2.picamera2:Camera stopped
+INFO:picamera2.picamera2:Camera closed successfully.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.google-analytics.com
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
+INFO:picamera2.picamera2:Initialization successful.
+INFO:picamera2.picamera2:Camera now open.
+INFO:picamera2.picamera2:Configuration successful!
+INFO:picamera2.picamera2:Camera started
+INFO:picamera2.request:Saved <picamera2.request.Helpers object at 0x7f01240790> to file temp_images/captured_image_924bb83dffb5431c98c970ac38588886.jpg.
+INFO:picamera2.request:Time taken for encode: 44.565500000317115 ms.
+INFO:picamera2.picamera2:Camera stopped
+INFO:picamera2.picamera2:Camera closed successfully.
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
+INFO:root:Email sent successfully to juukojuniorfrancis@gmail.com
