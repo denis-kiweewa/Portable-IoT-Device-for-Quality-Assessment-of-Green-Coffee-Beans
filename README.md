@@ -1,7 +1,11 @@
 Portable IoT Device for Quality Assessment of Green Coffee Beans
+
 Overview
+
 This repository contains the full project files for the design and implementation of a portable IoT device aimed at assessing the quality of green coffee beans using deep learning techniques. This project was developed to assist the Uganda Coffee Development Authority (UCDA) in ensuring the highest quality standards for coffee exports from Uganda.
+
 Project Structure
+
 ```plaintext
 .
 ├── code/
@@ -50,6 +54,7 @@ Usage
    - Upload or capture an image of the coffee beans.
    - View real-time temperature and humidity readings.
    - Generate and email PDF reports with the assessment results.
+   - 
 Methodology
 The project follows a structured methodology:
 1. Field Consultation: Collaboration with UCDA experts to understand the coffee bean quality assessment process.
@@ -57,6 +62,7 @@ The project follows a structured methodology:
 3. Model Development: Training and evaluating SSD-MobileNet, YOLO v7, and YOLO v8 models, with YOLO v8 showing the best performance.
 4. Hardware Implementation: Integrating sensors and camera with the Raspberry Pi 4.
 5. Prototype Assembly and Testing: Physical assembly, wiring, and field testing at UCDA labs.
+
 Results and Discussion
 Model Performance: YOLO v8 achieved the highest accuracy in defect detection.
 Quality Assessment: Effective real-time evaluation based on UCDA metrics.
@@ -70,6 +76,7 @@ Future Work:
 - Connect the device to a cloud platform for secure data storage.
 - Use a more powerful microcontroller for enhanced performance.
 - Adapt the device for other agricultural products like maize and beans.
+
 Contributors
 Your Name - Project Lead – KIWEEWA DENIS INNOCENT
 Team Member 1 – DESTINY MULUNGI SANYU
